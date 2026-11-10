@@ -1,0 +1,36 @@
+﻿Order ID;Order Date;Category;Customer type;Units;Unit Price
+ORD-0292;04/28/2025;bouquet;new customer;1;55,63
+ORD-0302;04/30/2025;bouquet;new customer;1;36,79
+ORD-0304;04/30/2025;bouquet;returning customer;1;51,55
+ORD-0307;05/02/2025;Gifts and add-ons;new customer;2;18,88
+ORD-0309;05/03/2025;bouquet;returning customer;1;91,57
+ORD-0310;05/03/2025;Potted Plants;returning customer;1;27,91
+ORD-0312;05/04/2025;Potted Plants;returning customer;1;66,59
+ORD-0318;05/06/2025;Gifts and add-ons;returning customer;1;11,12
+ORD-0321;05/06/2025;bouquet;new customer;1;55,36
+ORD-0323;05/06/2025;Potted Plants;new customer;3;46,18
+ORD-0324;05/06/2025;Gifts and add-ons;new customer;1;31,74
+ORD-0327;05/07/2025;bouquet;new customer;1;26,76
+ORD-0333;05/07/2025;bouquet;new customer;1;74,08
+ORD-0339;05/08/2025;Gifts and add-ons;new customer;1;14,67
+ORD-0341;05/08/2025;Potted Plants;returning customer;1;12,60
+ORD-0342;05/08/2025;Potted Plants;new customer;2;24,96
+ORD-0347;05/09/2025;bouquet;new customer;1;29,32
+ORD-0348;05/09/2025;Gifts and add-ons;returning customer;3;33,56
+ORD-0352;05/10/2025;bouquet;returning customer;1;57,96
+ORD-0355;05/10/2025;Gifts and add-ons;returning customer;1;25,60
+ORD-0359;05/11/2025;bouquet;returning customer;1;57,73
+ORD-0371;05/15/2025;bouquet;new customer;1;36,46
+ORD-0373;05/16/2025;Gifts and add-ons;returning customer;3;11,32
+ORD-0374;05/16/2025;Potted Plants;new customer;2;47,95
+ORD-0381;05/19/2025;Potted Plants;new customer;1;28,45
+ORD-0384;05/19/2025;bouquet;returning customer;1;41,13
+ORD-0393;05/24/2025;bouquet;new customer;1;46,90
+ORD-0394;05/24/2025;bouquet;returning customer;1;101,74
+ORD-0396;05/25/2025;Potted Plants;returning customer;2;44,82
+ORD-0397;05/25/2025;bouquet;returning customer;1;34,80
+ORD-0398;05/25/2025;bouquet;returning customer;1;53,86
+ORD-0399;05/25/2025;bouquet;new customer;1;83,96
+ORD-0400;05/26/2025;Potted Plants;new customer;1;28,20
+ORD-0407;05/28/2025;Potted Plants;returning customer;1;46,72
+ORD-0411;05/31/2025;bouquet;new customer;1;55,68

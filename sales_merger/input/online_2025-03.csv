@@ -1,0 +1,24 @@
+﻿Order ID;Order Date;Category;Customer type;Units;Unit Price
+ORD-0161;02/26/2025;bouquet;returning customer;1;84,41
+ORD-0163;02/26/2025;bouquet;new customer;1;78,83
+ORD-0166;02/26/2025;bouquet;returning customer;1;55,95
+ORD-0179;03/04/2025;bouquet;returning customer;1;70,63
+ORD-0181;03/05/2025;bouquet;new customer;1;61,77
+ORD-0186;03/06/2025;Potted Plants;new customer;1;40,88
+ORD-0187;03/06/2025;Gifts and add-ons;returning customer;1;9,76
+ORD-0188;03/07/2025;bouquet;returning customer;1;54,57
+ORD-0189;03/07/2025;Gifts and add-ons;new customer;1;30,60
+ORD-0192;03/08/2025;Potted Plants;new customer;1;34,68
+ORD-0197;03/09/2025;Gifts and add-ons;returning customer;1;19,82
+ORD-0200;03/11/2025;Potted Plants;new customer;2;24,93
+ORD-0201;03/11/2025;bouquet;new customer;1;73,26
+ORD-0202;03/12/2025;Gifts and add-ons;returning customer;1;36,73
+ORD-0204;03/14/2025;bouquet;new customer;1;26,20
+ORD-0205;03/14/2025;Gifts and add-ons;returning customer;1;40,56
+ORD-0206;03/15/2025;bouquet;returning customer;1;45,15
+ORD-0212;03/17/2025;bouquet;new customer;1;53,00
+ORD-0213;03/17/2025;bouquet;returning customer;1;62,06
+ORD-0220;03/22/2025;bouquet;new customer;1;86,81
+ORD-0227;03/25/2025;bouquet;returning customer;1;46,12
+ORD-0229;03/27/2025;Gifts and add-ons;returning customer;3;20,09
+TEST-001;03/04/2025;bouquet;returning customer;1;

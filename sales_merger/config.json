@@ -1,0 +1,41 @@
+{
+  "report_note": "Sample report built on synthetic data for portfolio demonstration.",
+
+  "columns": {
+    "order_id":   ["order_id", "orderid", "order id", "order #", "order no", "order number", "номер заказа"],
+    "date":       ["date", "order date", "sale date", "sales date", "дата", "дата заказа"],
+    "category":   ["category", "product category", "категория"],
+    "customer":   ["customer", "customer type", "client", "клиент"],
+    "units":      ["units", "qty", "quantity", "количество", "кол-во"],
+    "unit_price": ["unitprice", "unit_price", "unit price", "price", "price, $", "цена"]
+  },
+
+  "categories": {
+    "Bouquets":          ["bouquet", "букеты"],
+    "Potted plants":     ["potted plant", "plants", "растения в горшках"],
+    "Gifts & add-ons":   ["gifts and add-ons", "gifts", "подарки"],
+    "Events & weddings": ["events/weddings", "events", "weddings", "свадьбы и мероприятия"]
+  },
+
+  "cogs_pct": {
+    "Bouquets":          0.45,
+    "Potted plants":     0.50,
+    "Gifts & add-ons":   0.55,
+    "Events & weddings": 0.40
+  },
+
+  "customers": {
+    "New":       ["new customer", "first-time", "first time", "новый"],
+    "Returning": ["returning customer", "repeat", "repeat customer", "постоянный"]
+  },
+
+  "channels": {
+    "instore": "In-store",
+    "phone":   "Phone",
+    "online":  "Online"
+  },
+
+  "period": {"from": "2025-01-01", "to": "2025-12-31"},
+
+  "date_formats": ["%Y-%m-%d", "%d.%m.%Y", "%m/%d/%Y", "%d/%m/%Y"]
+}

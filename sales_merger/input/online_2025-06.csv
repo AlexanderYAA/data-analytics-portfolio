@@ -1,0 +1,35 @@
+﻿Order ID;Order Date;Category;Customer type;Units;Unit Price
+ORD-0400;05/26/2025;Potted Plants;new customer;1;28,20
+ORD-0407;05/28/2025;Potted Plants;returning customer;1;46,72
+ORD-0411;05/31/2025;bouquet;new customer;1;55,68
+ORD-0414;06/01/2025;Gifts and add-ons;new customer;1;42,01
+ORD-0415;06/02/2025;bouquet;new customer;1;45,97
+ORD-0417;06/05/2025;bouquet;new customer;1;70,97
+ORD-0419;06/06/2025;Events/Weddings;new customer;1;394,14
+ORD-0420;06/06/2025;bouquet;returning customer;1;80,78
+ORD-0421;06/06/2025;Gifts and add-ons;returning customer;1;15,03
+ORD-0422;06/07/2025;Potted Plants;new customer;2;37,15
+ORD-0424;06/08/2025;bouquet;new customer;1;30,54
+ORD-0425;06/08/2025;Potted Plants;new customer;1;31,35
+ORD-0426;06/08/2025;Potted Plants;new customer;1;51,58
+ORD-0432;06/10/2025;Gifts and add-ons;returning customer;2;24,31
+ORD-0433;06/11/2025;Gifts and add-ons;returning customer;1;24,00
+ORD-0434;06/11/2025;Gifts and add-ons;new customer;1;66,12
+ORD-0437;06/12/2025;bouquet;returning customer;1;36,01
+ORD-0443;06/13/2025;bouquet;new customer;1;41,82
+ORD-0445;06/14/2025;Potted Plants;returning customer;1;62,34
+ORD-0446;06/14/2025;bouquet;new customer;1;99,22
+ORD-0447;06/14/2025;bouquet;new customer;1;44,47
+ORD-0452;06/16/2025;Gifts and add-ons;new customer;1;28,28
+ORD-0453;06/16/2025;Gifts and add-ons;returning customer;1;19,20
+ORD-0456;06/17/2025;Gifts and add-ons;returning customer;1;16,01
+ORD-0460;06/18/2025;Gifts and add-ons;new customer;2;41,02
+ORD-0461;06/19/2025;Potted Plants;returning customer;1;52,64
+ORD-0465;06/19/2025;bouquet;new customer;1;75,61
+ORD-0474;06/21/2025;bouquet;returning customer;1;33,11
+ORD-0479;06/24/2025;Gifts and add-ons;new customer;2;20,16
+ORD-0486;06/26/2025;Potted Plants;new customer;2;23,20
+ORD-0489;06/27/2025;Potted Plants;returning customer;1;41,97
+ORD-0492;06/28/2025;bouquet;new customer;1;71,48
+ORD-0495;06/28/2025;Potted Plants;returning customer;1;53,15
+ORD-0498;06/30/2025;bouquet;new customer;1;74,14

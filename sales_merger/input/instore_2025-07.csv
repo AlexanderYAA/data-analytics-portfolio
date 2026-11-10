@@ -1,0 +1,29 @@
+OrderID,Date,Category,Customer,Units,UnitPrice
+ORD-0500,2025-07-01,Bouquets,New,1,48.06
+ORD-0504,2025-07-06,Gifts & add-ons,New,3,25.59
+ORD-0506,2025-07-07,Potted plants,New,1,51.5
+ORD-0507,2025-07-09,Bouquets,New,1,48.48
+ORD-0509,2025-07-10,Bouquets,Returning,1,43.07
+ORD-0510,2025-07-10,Bouquets,New,1,24.9
+ORD-0511,2025-07-10,Bouquets,Returning,1,62.72
+ORD-0513,2025-07-11,Bouquets,New,1,52.83
+ORD-0515,2025-07-11,Bouquets,New,1,72.46
+ORD-0518,2025-07-13,Potted plants,New,1,69.47
+ORD-0521,2025-07-15,Bouquets,New,1,29.42
+ORD-0522,2025-07-16,Bouquets,New,1,55.07
+ORD-0523,2025-07-17,Bouquets,Returning,1,71.11
+ORD-0524,2025-07-17,Potted plants,Returning,1,17.38
+ORD-0526,2025-07-17,Gifts & add-ons,New,1,17.38
+ORD-0527,2025-07-18,Bouquets,New,1,53.59
+ORD-0529,2025-07-19,Potted plants,New,1,40.07
+ORD-0530,2025-07-19,Bouquets,New,1,95.12
+ORD-0532,2025-07-19,Bouquets,New,1,41.75
+ORD-0535,2025-07-21,Gifts & add-ons,New,1,34.64
+ORD-0536,2025-07-21,Gifts & add-ons,Returning,3,10.3
+ORD-0538,2025-07-23,Potted plants,New,1,23.8
+ORD-0540,2025-07-25,Bouquets,New,1,65.56
+ORD-0543,2025-07-26,Bouquets,Returning,1,49.33
+ORD-0544,2025-07-26,Bouquets,New,1,112.94
+ORD-0546,2025-07-28,Bouquets,Returning,1,37.04
+ORD-0552,2025-07-30,Bouquets,Returning,1,70.96
+ORD-0555,2025-07-31,Bouquets,Returning,1,43.89

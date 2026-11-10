@@ -1,0 +1,24 @@
+﻿Order ID;Order Date;Category;Customer type;Units;Unit Price
+ORD-0749;10/30/2025;Potted Plants;new customer;2;31,45
+ORD-0750;10/31/2025;bouquet;new customer;1;47,98
+ORD-0751;10/31/2025;Potted Plants;returning customer;1;26,70
+ORD-0752;11/01/2025;bouquet;returning customer;1;34,99
+ORD-0755;11/03/2025;Potted Plants;new customer;2;28,85
+ORD-0756;11/04/2025;Gifts and add-ons;new customer;2;27,95
+ORD-0758;11/05/2025;bouquet;returning customer;1;61,42
+ORD-0762;11/06/2025;bouquet;returning customer;1;64,41
+ORD-0770;11/09/2025;bouquet;returning customer;1;44,41
+ORD-0774;11/10/2025;bouquet;returning customer;1;36,36
+ORD-0776;11/11/2025;Gifts and add-ons;new customer;1;38,78
+ORD-0778;11/12/2025;bouquet;new customer;1;60,89
+ORD-0779;11/12/2025;Potted Plants;returning customer;2;47,84
+ORD-0784;11/14/2025;bouquet;new customer;1;41,72
+ORD-0786;11/15/2025;Potted Plants;new customer;1;35,92
+ORD-0789;11/17/2025;Gifts and add-ons;returning customer;1;18,06
+ORD-0791;11/17/2025;bouquet;new customer;1;61,14
+ORD-0792;11/17/2025;Events/Weddings;returning customer;1;485,00
+ORD-0795;11/17/2025;bouquet;returning customer;1;51,46
+ORD-0800;11/22/2025;bouquet;new customer;1;28,55
+ORD-0806;11/24/2025;Gifts and add-ons;new customer;2;27,89
+ORD-0807;11/25/2025;bouquet;new customer;1;78,69
+ORD-0808;11/26/2025;Potted Plants;new customer;1;38,55

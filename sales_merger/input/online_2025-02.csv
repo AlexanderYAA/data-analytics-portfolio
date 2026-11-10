@@ -1,0 +1,37 @@
+﻿Order ID;Order Date;Category;Customer type;Units;Unit Price
+ORD-0055;01/29/2025;bouquet;new customer;1;63,67
+ORD-0060;01/31/2025;Potted Plants;new customer;1;16,41
+ORD-0062;01/31/2025;bouquet;returning customer;1;91,52
+ORD-0065;02/01/2025;Potted Plants;new customer;3;28,21
+ORD-0066;02/01/2025;bouquet;new customer;1;86,93
+ORD-0067;02/03/2025;Potted Plants;returning customer;1;38,01
+ORD-0074;02/05/2025;bouquet;new customer;1;87,69
+ORD-0077;02/05/2025;bouquet;returning customer;1;52,15
+ORD-0078;02/06/2025;Events/Weddings;new customer;1;354,60
+ORD-0084;02/08/2025;bouquet;new customer;1;38,99
+ORD-0085;02/08/2025;Potted Plants;new customer;1;39,05
+ORD-0087;02/08/2025;Potted Plants;new customer;3;37,79
+ORD-0094;02/09/2025;Gifts and add-ons;new customer;1;44,77
+ORD-0099;02/09/2025;Potted Plants;returning customer;1;34,37
+ORD-0102;02/10/2025;Gifts and add-ons;returning customer;1;29,06
+ORD-0103;02/10/2025;bouquet;new customer;1;39,85
+ORD-0106;02/10/2025;bouquet;new customer;1;40,73
+ORD-0107;02/10/2025;Events/Weddings;new customer;1;486,46
+ORD-0112;02/10/2025;bouquet;new customer;1;38,02
+ORD-0113;02/10/2025;Gifts and add-ons;returning customer;2;16,90
+ORD-0122;02/12/2025;bouquet;new customer;1;64,63
+ORD-0124;02/12/2025;bouquet;new customer;1;125,70
+ORD-0132;02/14/2025;bouquet;returning customer;1;48,29
+ORD-0137;02/15/2025;bouquet;new customer;1;82,74
+ORD-0139;02/17/2025;Gifts and add-ons;returning customer;2;32,85
+ORD-0144;02/20/2025;Potted Plants;returning customer;1;34,71
+ORD-0145;02/20/2025;Potted Plants;returning customer;1;19,58
+ORD-0146;02/20/2025;Gifts and add-ons;returning customer;1;23,70
+ORD-0147;02/20/2025;Potted Plants;new customer;1;57,43
+ORD-0151;02/22/2025;bouquet;new customer;1;83,51
+ORD-0153;02/22/2025;bouquet;returning customer;1;89,98
+ORD-0154;02/22/2025;Events/Weddings;new customer;1;451,44
+ORD-0155;02/23/2025;Potted Plants;new customer;1;49,30
+ORD-0161;02/26/2025;bouquet;returning customer;1;84,41
+ORD-0163;02/26/2025;bouquet;new customer;1;78,83
+ORD-0166;02/26/2025;bouquet;returning customer;1;55,95

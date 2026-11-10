@@ -1,0 +1,14 @@
+# Allowlist: only the portfolio projects are published.
+# Everything else in this folder (personal notes, drafts, other files) stays local.
+/*
+!/.gitignore
+!/README.md
+!/sales_merger/
+!/html_dashboard/
+!/python_report/
+
+# never publish, even inside the projects
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+~$*
